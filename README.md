@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me :
 - 🔭  I am a full stack developer. 
 - 🌱 Currently trying my hands on machine learning and natural language processing.
-- 🤔 I’m looking for internship opportunities
 - 📫 Contact me at: riyanshigoyal@iitbhilai.ac.in
 
 
